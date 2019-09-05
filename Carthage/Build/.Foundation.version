@@ -1,0 +1,15 @@
+{
+  "commitish" : "3.3.1",
+  "iOS" : [
+    {
+      "name" : "PMKFoundation",
+      "hash" : "ffac1ac185822b6a21c389c0463d08c6aafae016ddc86a45f2f5d27d81e89bad"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "PMKFoundation",
+      "hash" : "20bca6660ebe26252ea9279ace074d156d67e31f38d8f1c08735e354fe9f9416"
+    }
+  ]
+}
